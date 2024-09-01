@@ -4,7 +4,6 @@
 
 
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://arnavarora.vercel.app/)
 
 ---
 
